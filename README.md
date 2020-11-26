@@ -1,5 +1,4 @@
-# Arduino
-Arduino projekty:
+# Arduino - Wemos D1 Mini (ESP8266)
 
 ### NEOPixel LED pásek
  - Osvětlení za TV
