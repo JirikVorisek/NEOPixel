@@ -1,7 +1,7 @@
 # Arduino
 Arduino projekty:
 
-# NEOPixel LED pásek
+## NEOPixel LED pásek
  - Osvětlení za TV
  - Osvětlení za postel
  - Osvětlení Africké masky
