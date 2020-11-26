@@ -1,10 +1,10 @@
 # Arduino
 Arduino projekty:
 
-## NEOPixel LED pásek
+### NEOPixel LED pásek
  - Osvětlení za TV
  - Osvětlení za postel
  - Osvětlení Africké masky
  
- Termostat
+### Termostat
   - Programovatelné spínání zásuvky elektrického otopného tělesa
